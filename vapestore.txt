@@ -19,6 +19,7 @@ RELX POD PEN:
 3. RELX Infinity 2 Plus Device = Rp. 330.000
 4. RELX Artisan Plus Device = Rp. 600.000
 
+====================================================== LIQUID ========================================================================
 
 OXFA LIQUID:
 1. Fruity Ice Series (Sensasi Dingin & Segar) 30ML
@@ -45,37 +46,35 @@ OXFA LIQUID:
 - OX Passion Pina Colada = Rp. 115.000
 - OX Passion Orange Squash = Rp. 115.000
 
-============================================================= LIQUID ===================================================================
-
 FOOM LIQUID:
 1. FOOM MAX Series 30ML
-- Red Apple
-- Icy Blackcurrant
-- Icy Honeydew
-- Iced Tea
-- Icy Berry
-- Icy Mango
-- Icy Menthol
+- Red Apple = Rp. 110.000
+- Icy Blackcurrant = Rp. 110.000
+- Icy Honeydew = Rp. 110.000
+- Iced Tea = Rp. 110.000
+- Icy Berry = Rp. 110.000
+- Icy Mango = Rp. 110.000
+- Icy Menthol = Rp. 110.000
 
 2. Bloom Series 30ML
-- Lychee Rose
-- Hibiscus Oolong Tea
+- Lychee Rose = Rp. 110.000
+- Hibiscus Oolong Tea = Rp. 110.000
 
 3. Tangy Series 30ML
-- Tangy Milk Peach
-- Tangy Milk Lychee
-- Tangy Milk
+- Tangy Milk Peach = Rp. 110.000
+- Tangy Milk Lychee = Rp. 110.000
+- Tangy Milk = Rp. 110.000
 
 4. Asian Series 30ML
-- Thai Mango Sticy Rice
-- Vietnam Drip Coffe
+- Thai Mango Sticy Rice = Rp. 110.000
+- Vietnam Drip Coffe = Rp. 110.000
 
 5. Ice Cream Series 30ML
-- Strawberry Ice Cream
-- Blueberry Cheese Ice Cream
-- Chocolate Ice Cream
-- Vanilla Ice Cream
-- Tiramisu
-- Corn Ice Cream
+- Strawberry Ice Cream = Rp.110.000
+- Blueberry Cheese Ice Cream = Rp. 110.000
+- Chocolate Ice Cream = Rp. 110.000
+- Vanilla Ice Cream = Rp. 110.000
+- Tiramisu = Rp. 110.000
+- Corn Ice Cream = Rp. 110.000
 
 ===================================================== THANK YOU ======================================================================
